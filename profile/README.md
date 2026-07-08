@@ -29,22 +29,26 @@ AI stopped being a chat window. It's becoming a workforce — agents that code, 
 A pod is a full Linux machine in the SkyDeck cloud with an AI agent pre-installed and a workspace that persists. Launch **Claude Code** or **OpenClaw**, close your laptop, and come back to finished work — or watch your teammates drive the same live terminal, one **Driver** at a time.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/skydeckai/.github/main/profile/assets/pod-catalog.png" alt="The Agent Pods catalog — pick a template, see the hourly rate, launch." width="850" />
+<img src="https://raw.githubusercontent.com/skydeckai/.github/main/profile/assets/workspace.png" alt="The SkyDeck workspace — Claude Code and OpenClaw pods working side by side, one Driver at a time, with a live preview." width="880" />
 </div>
 
 - **Around the clock** — hours-long Claude Code sessions and always-on OpenClaw gateways that survive disconnects. Your laptop sleeps; your pod doesn't.
 - **Operate together** — one keyboard, many eyes: request and hand off control on a shared terminal, with read-only observers.
 - **Deploy to everyone, governed** — system and custom pods scoped by group, with monthly budgets, per-member caps, concurrent limits, and idle auto-sleep enforced in Control Center.
 
+<div align="center">
+
+| | |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/skydeckai/.github/main/profile/assets/launcher.png" width="440" /> | <img src="https://raw.githubusercontent.com/skydeckai/.github/main/profile/assets/pod-pane.png" width="330" /> |
+
+</div>
+
 Metered by the hour; sleeping pods keep `/workspace` and sign-ins intact and bill storage only. **[Read the launch post →](https://www.skydeck.ai/blog/introducing-agent-pods/)**
 
 ---
 
 ## One workspace, every model
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/skydeckai/.github/main/profile/assets/genstudio.png" alt="GenStudio — collaborate with any model, tools, and MCP servers in one conversation." width="850" />
-</div>
 
 GPT, Claude, Gemini, Mistral, Llama and beyond — bring your own keys or use ours, mix models mid-conversation, collaborate live with teammates, and extend everything with tools and MCP servers. IT keeps the keys; your team keeps the momentum.
 
